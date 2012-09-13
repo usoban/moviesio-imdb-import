@@ -1,4 +1,4 @@
-IMDB watchlist impoter for movies.io
+IMDB watchlist importer for movies.io
 
 - download your watchlist from IMDB as CSV file
 - open existing watchlist at movies.io
